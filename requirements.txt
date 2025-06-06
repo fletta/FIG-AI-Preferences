@@ -1,0 +1,5 @@
+# Core dependencies
+PyYAML
+numpy
+pandas
+matplotlib

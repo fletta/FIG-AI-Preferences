@@ -1,0 +1,5 @@
+# Example configuration for running a bandit experiment
+world_states_file: data/world_states.json
+utilities: [1.0, 0.8, 0.5, 0.3, 0.2]
+noise_after: 5
+noise_std: 0.1
