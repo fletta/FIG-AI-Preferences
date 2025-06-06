@@ -1,0 +1,14 @@
+# Sample prompt specification for prompt factory
+randomisation_axes:
+  scale_length: [5, 7]
+  option_order: [original, shuffled]
+  response_format: [letter, number]
+  persona_frame: [assistant, critic, user-simulator]
+  require_reasoning: [true, false]
+
+# Example prompts for lottery CE phase
+lottery_prompts:
+  - state: eat an apple
+    text: "How desirable is it to eat an apple?"
+  - state: watch a movie
+    text: "How desirable is it to watch a movie?"
