@@ -1,8 +1,7 @@
 # FIG-AI Preferences
 
-This repository contains scaffolding for experiments investigating the stability
-of preferences elicited from language models. The work draws on two proposals
-for testing context-invariance using lottery-certainty equivalents and
+So far, this repository contains scaffolding for experiments investigating the stability
+of preferences elicited from language models. The work tests context-invariance using lottery-certainty equivalents and
 contextual bandit tasks.
 
 ## Repository layout
